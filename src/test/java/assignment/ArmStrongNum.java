@@ -3,7 +3,7 @@ package assignment;
 public class ArmStrongNum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub......
 
 		int number_5 = 153;
 		int copy_of_number_5 = number_5;

@@ -28,5 +28,6 @@ public class SingleLevelIeritance {
  class Bpm extends Infosys
  {
 	 String name="Ashwini";
+	 
  }
  
